@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f61752d0db42330032428809489619c9</sp_column>
+        <sp_widget display_value="Site Analytics">db657ec05b011200e39fc7ad31f91a79</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 06:37:56</sys_created_on>
+        <sys_id>64985a54db4233003242880948961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Amit`s app" source="x_365651_amit_s_ap">bd916072db31330032428809489619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amit`s app">bd916072db31330032428809489619de</sys_scope>
+        <sys_update_name>sp_instance_64985a54db4233003242880948961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 06:37:56</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=64985a54db4233003242880948961971"/>
+</record_update>
